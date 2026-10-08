@@ -1,6 +1,6 @@
 # Bored API Test Suite
 
-Automated API test suite for the [Bored API](https://bored-api.appbrewery.com/), built with `pytest` and `httpx`.
+Automated API test suite for the [Bored API](https://bored-api.appbrewery.com/), built with `pytest` and `requests`.
 
 ## What's covered
 
@@ -13,7 +13,7 @@ Automated API test suite for the [Bored API](https://bored-api.appbrewery.com/),
 
 - Python 3.12
 - pytest
-- httpx
+- requests
 - pydantic-settings (config from `.env`)
 
 ## Project structure
